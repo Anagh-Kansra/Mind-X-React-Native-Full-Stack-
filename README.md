@@ -49,10 +49,4 @@ Before you start, ensure you have the following installed on your machine:
 - **MongoDB** (or use MongoDB Atlas for cloud hosting)
 - **Cloudinary Account** (for image uploads)
 
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Anagh-Kansra/MindX-Insight-App.git
-   cd MindX-Insight-App
 
