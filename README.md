@@ -52,3 +52,6 @@ Before you start, ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/Anagh-Kansra/MindX-Insight-App.git
    cd MindX-Insight-App
+
+### Frontend/Client side Link
+**Link:** https://github.com/Anagh-Kansra/Mind-X-React-Native-Full-Stack-Client
