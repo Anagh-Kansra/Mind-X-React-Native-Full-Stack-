@@ -4,6 +4,9 @@
 
 The **Mind X Insight Sharing App** is a mobile application built using React Native and Expo for the front-end, and Node.js with Express.js for the back-end. The app enables users to share insightful posts with a title, description, image, and relevant links, fostering a community of knowledge sharing. It incorporates user authentication, post creation, and a dynamic home feed displaying shared insights. The back-end is hosted on Render, with a MongoDB database to store user and post data, and Cloudinary is used for image storage.
 
+### Frontend/Client side Link
+**Link:** https://github.com/Anagh-Kansra/Mind-X-React-Native-Full-Stack-Client
+
 ## Features
 
 - **User Authentication**: Secure user registration and login using JWT (JSON Web Token).
@@ -53,5 +56,3 @@ Before you start, ensure you have the following installed on your machine:
    git clone https://github.com/Anagh-Kansra/MindX-Insight-App.git
    cd MindX-Insight-App
 
-### Frontend/Client side Link
-**Link:** https://github.com/Anagh-Kansra/Mind-X-React-Native-Full-Stack-Client
